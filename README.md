@@ -14,19 +14,15 @@ That's it. To see it in the list of layouts I had to restart my PC though.
 
 ## How to use
 
-Alt+Ctrl (or Alt Gr if you have) + s = ß
+Alt Gr = Alt+Ctrl
 
-Alt+Ctrl (or Alt Gr if you have) + : = ö
-
-Alt+Ctrl (or Alt Gr if you have) + [ = ü
-
-Alt+Ctrl (or Alt Gr if you have) + ' = ä
-
-Alt+Ctrl (or Alt Gr if you have) + Shift + : = Ö
-
-Alt+Ctrl (or Alt Gr if you have) + Shift + [ = Ü
-
-Alt+Ctrl (or Alt Gr if you have) + Shift + ' = Ä
+1. Alt+Ctrl + s = ß
+1. Alt+Ctrl + : = ö
+1. Alt+Ctrl + [ = ü
+1. Alt+Ctrl + ' = ä
+1. Alt+Ctrl + Shift + : = Ö
+1. Alt+Ctrl + Shift + [ = Ü
+1. Alt+Ctrl + Shift + ' = Ä
 
 
 # American keyboard layout for german V2
@@ -34,6 +30,10 @@ Alt+Ctrl (or Alt Gr if you have) + Shift + ' = Ä
 This is less "traditional" but imo more convenient.
 
 ![image](https://user-images.githubusercontent.com/31178401/162411516-8a2c015d-6fc2-4025-a34f-8ab24e715979.png)
+
+## How to use
+
+Alt Gr = Alt+Ctrl
 
 1. Alt + Ctrl + u = ü
 2. Alt + Ctrl + o = ö
