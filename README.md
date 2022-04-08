@@ -31,5 +31,14 @@ Alt+Ctrl (or Alt Gr if you have) + Shift + ' = Ä
 
 # American keyboard layout for german V2
 
-TODO
+This is less "traditional" but imo more convenient.
 
+![image](https://user-images.githubusercontent.com/31178401/162411516-8a2c015d-6fc2-4025-a34f-8ab24e715979.png)
+
+1. Alt + Ctrl + u = ü
+2. Alt + Ctrl + o = ö
+3. Alt + Ctrl + a = ä
+3. Alt + Ctrl + s = ß
+1. Alt + Ctrl + Shift + u = Ü
+1. Alt + Ctrl + Shift + a = Ä
+1. Alt + Ctrl + Shift + o = Ö
