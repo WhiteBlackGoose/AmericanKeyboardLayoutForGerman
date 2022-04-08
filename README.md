@@ -42,3 +42,7 @@ Alt Gr = Alt+Ctrl
 1. Alt + Ctrl + Shift + u = Ü
 1. Alt + Ctrl + Shift + a = Ä
 1. Alt + Ctrl + Shift + o = Ö
+
+# How it's done
+
+I used awesome Microsoft's [Keyboard Layout Editor](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
