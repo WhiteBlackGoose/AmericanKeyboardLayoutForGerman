@@ -29,3 +29,7 @@ Alt+Ctrl (or Alt Gr if you have) + Shift + [ = Ü
 Alt+Ctrl (or Alt Gr if you have) + Shift + ' = Ä
 
 
+# American keyboard layout for german V2
+
+TODO
+
