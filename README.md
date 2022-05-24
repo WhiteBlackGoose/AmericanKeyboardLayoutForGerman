@@ -1,4 +1,17 @@
-# American keyboard layout for german
+# American keyboard layout for German, math, and currencies
+
+`goosekb1`
+
+### Alt+Ctrl:
+
+![image](https://user-images.githubusercontent.com/31178401/170087962-757db247-e54e-4f5c-963c-15a7aab0431b.png)
+
+### Alt+Ctrl+Shift:
+
+![image](https://user-images.githubusercontent.com/31178401/170088025-c6695bd8-b224-431d-a03b-895859e82479.png)
+
+
+# American keyboard layout for German
 
 This is a layout for German language with umlauts (ü ä ö ß), but everything else kept from American kb.
 
