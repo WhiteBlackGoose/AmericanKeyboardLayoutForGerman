@@ -1,3 +1,6 @@
+
+[![Get it](https://img.shields.io/static/v1?label=latest%20release&message=get&color=green&style=for-the-badge)](https://github.com/WhiteBlackGoose/AmericanKeyboardLayoutForGerman/releases/tag/v3.0.0)
+
 # American keyboard layout for German, math, and currencies
 
 `goosekb1`
