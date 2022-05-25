@@ -1,64 +1,18 @@
 
-[![Get it](https://img.shields.io/static/v1?label=latest%20release&message=get&color=green&style=for-the-badge)](https://github.com/WhiteBlackGoose/AmericanKeyboardLayoutForGerman/releases/tag/v3.0.0)
+[![Get it](https://img.shields.io/static/v1?label=latest%20release&message=get%20started&color=green&style=for-the-badge)](https://github.com/WhiteBlackGoose/AmericanKeyboardLayoutForGerman/releases/tag/v3.0.0)
 
-# American keyboard layout for German, math, and currencies
+### American keyboard layout for German, math, and currencies
 
-`goosekb1`
+Click the huge green button to proceed to instructions on how to **install** and **use**.
 
-### Alt+Ctrl:
+The idea is that we keep our favorite QWERTY layout with all special characters located where we're used to. Now, all we do is adding the needed characters to Alt+Ctrl so that we wouldn't need to switch the layout just to type a symbol (which is especially painful if you already have two or more layouts).
 
-![image](https://user-images.githubusercontent.com/31178401/170087962-757db247-e54e-4f5c-963c-15a7aab0431b.png)
+You can create your own layout with the official keyboard editor, see the last section of this page.
 
-### Alt+Ctrl+Shift:
+### All versions
 
-![image](https://user-images.githubusercontent.com/31178401/170088025-c6695bd8-b224-431d-a03b-895859e82479.png)
+All releases are [here](https://github.com/WhiteBlackGoose/AmericanKeyboardLayoutForGerman/releases) (in case if you want to find an old version).
 
-
-# American keyboard layout for German
-
-This is a layout for German language with umlauts (ü ä ö ß), but everything else kept from American kb.
-
-![image](https://user-images.githubusercontent.com/31178401/162408081-cde85062-8df2-4206-91af-4f6231155e35.png)
-
-## How to set up
-
-1. Go to [releases](https://github.com/WhiteBlackGoose/AmericanKeyboardLayoutForGerman/releases)
-2. Download and unzip the archive
-3. Run setup.exe
-
-That's it. To see it in the list of layouts I had to restart my PC though.
-
-## How to use
-
-Alt Gr = Alt+Ctrl
-
-1. Alt+Ctrl + s = ß
-1. Alt+Ctrl + : = ö
-1. Alt+Ctrl + [ = ü
-1. Alt+Ctrl + ' = ä
-1. Alt+Ctrl + Shift + : = Ö
-1. Alt+Ctrl + Shift + [ = Ü
-1. Alt+Ctrl + Shift + ' = Ä
-
-
-# American keyboard layout for german V2
-
-This is less "traditional" but imo more convenient.
-
-![image](https://user-images.githubusercontent.com/31178401/162411516-8a2c015d-6fc2-4025-a34f-8ab24e715979.png)
-
-## How to use
-
-Alt Gr = Alt+Ctrl
-
-1. Alt + Ctrl + u = ü
-2. Alt + Ctrl + o = ö
-3. Alt + Ctrl + a = ä
-3. Alt + Ctrl + s = ß
-1. Alt + Ctrl + Shift + u = Ü
-1. Alt + Ctrl + Shift + a = Ä
-1. Alt + Ctrl + Shift + o = Ö
-
-# How it's done
+### How it's done
 
 I used awesome Microsoft's [Keyboard Layout Editor](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
